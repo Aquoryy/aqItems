@@ -1,0 +1,12 @@
+name: aqItems
+version: '${project.version}'
+main: org.aqu0ryy.items.Loader
+
+api-version: '1.16'
+
+author: aqu0ryy
+description: Плагин на уникальные вещи.
+
+commands:
+  aqitems:
+    aliases: [ items, aqi ]
